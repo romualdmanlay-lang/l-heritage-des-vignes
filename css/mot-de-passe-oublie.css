@@ -1,0 +1,23 @@
+body{
+  display: flex;
+  justify-content: center;
+}
+
+.formulair {
+  display: flex;
+  flex-direction:column ;
+  justify-content: center;
+  text-align: center;
+}
+
+
+.button-envoie{
+  justify-content: center;
+  margin: 10px;
+}
+
+.button-retour{
+  font-size: small;
+  color: black;
+  text-decoration: none;
+}
